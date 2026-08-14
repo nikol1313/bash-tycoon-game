@@ -9,7 +9,7 @@ trade_tycoon() {
         "Coal" "Copper" "Stone" "Salt" "Glass"
         "Ale" "Rations" "Torches" "Herbs" "Arrows"
     )
-
+# same as here
     local locked_items=(
         "Silver" "Gold" "Gems" "Potions" "Scrolls"
         "Holy Water" "Mithril" "Adamantine" "Elven Silk"
