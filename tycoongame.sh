@@ -104,15 +104,15 @@ trade_tycoon() {
                             fi
                         else
                             echo "Invalid quantity."
-                            sleep 1
+                            sleep 2
                         fi
                     else
                         echo "You can't even afford one $item!"
-                        sleep 1
+                        sleep 2
                     fi
                 else
                     echo "Invalid item number!"
-                    sleep 1
+                    sleep 2
                 fi
                 ;;
             s)
