@@ -3,7 +3,7 @@ trade_tycoon() {
     local money=1000
     local week=1
     local unlock_cost=100000
-
+# can add or remove if u want
     local active_items=(
         "Wood" "Iron" "Wheat" "Cloth" "Leather"
         "Coal" "Copper" "Stone" "Salt" "Glass"
