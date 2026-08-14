@@ -49,7 +49,7 @@ trade_tycoon() {
     while true; do
         clear
         echo "========================================="
-        echo "   MEDIEVAL MERCHANT - Week $week        "
+        echo "   MED MERCHANT - Week $week        "
         echo "========================================="
         echo " Gold Pieces: $money GP"
         echo "-----------------------------------------"
